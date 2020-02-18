@@ -1,28 +1,25 @@
 [![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/mapbox_logo.PNG)](https://mapbox.com) 
-## Intro to Mapbox workshop - Rowan University Cartography (2/19/2020)
+## Intro to Mapbox workshop - Rowan University - Cartography (2/19/2020)
 
-Christopher Pollard
-
-pollardc@rowan.edu, [@CRVanPollard ](https://twitter.com/CRVanPollard)
+Christopher Pollard, pollardc@rowan.edu, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 
 ### Today's goal - make this map
 [![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/todaysmap.png)](https://api.mapbox.com/styles/v1/crvanpollard/ck6s980mv09oh1iqppo5rusgo.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY3J2YW5wb2xsYXJkIiwiYSI6Ii00ZklVS28ifQ.Ht4KwAM3ZUjo1dT2Erskgg)
 
 ### How are we going to get there...
-- Overview of CartoDB
+- Overview of Mapbox Studio
 - Getting started 
-- Importing data into CartoDB
-- Visualizing data in CartoDB (style wizard, infowindows, filters, cartocss)
-- Publishing your visualization
-- CartoDB Deep Insights (coming summer 2016)
+- Importing data into Mapbox Studio
+- Visualizing data in Mapbox Studio
+- Publishing your style
 
-## Overview of CartoDB
-#### CartoDB Editor - https://cartodb.com/editor/
-Easy to use web map editor helping people visualize and analyze geospatial data
-- Connect, collect, and manage location data
-- Analyze and understand where the impact or trends are occurring
-- Discover insights, patterns, and visually share that information
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodbeditor.png)](https://cartodb.com/editor/)
+## Overview of Mapbox Studio
+#### Mapbox Studio - https://www.mapbox.com/mapbox-studio/
+Design interactive maps that run on any device with Mapbox Studio
+- Full basemap design control
+- Data visualization
+- Publish across platforms
+[![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/mapboxstudio.png)](https://cartodb.com/editor/)
 
 #### CartoDB Platform - https://cartodb.com/platform/
 A set of high performance APIs and tools to deliver geospatial applications with big data and extensible location analytic capabilities. CartoDB Editor is actually an application built on top of the CartoDB Platform.
