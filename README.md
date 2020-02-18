@@ -61,16 +61,19 @@ https://docs.mapbox.com/help/glossary/dataset/
 
 ### Datasets
 Today, we are going to use several local datasets that focus on Bicycle Planning in Philadelphia.
-Please copy the following URLs listed below and paste them, one at a time, into your CartoDB importer.
+Please go to the following URLs listed below, download and save them as geojsons.
 
 - Philadelphia Bike Network ([Open Data Philly](https://www.opendataphilly.org/dataset/bike-network))
 `https://www.opendataphilly.org/dataset/bike-network`
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/bn_geojson.png)
 
 - Indego Bike Share Stations ([Open Data Philly](https://www.opendataphilly.org/dataset/bike-share-stations))
 `https://www.opendataphilly.org/dataset/bike-share-stations`
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/i_geojson.png)
 
 - Neighborhood Food Retail ([Open Data Philly](https://www.opendataphilly.org/dataset/neighborhood-food-retail))
 `https://www.opendataphilly.org/dataset/neighborhood-food-retail`
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/nfr_geojson.png)
 
 ### Data View
 This is where you can view, sort, modfiy, add, and merge datasets together. Very similar to excel and other spreadsheet interfaces. 
