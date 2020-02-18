@@ -1,4 +1,4 @@
-[![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/mapbox_logo.png)](https://mapbox.com) 
+[![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/mapbox_logo.PNG)](https://mapbox.com) 
 ## Intro to Mapbox workshop - Rowan University Cartography (2/19/2020)
 
 Christopher Pollard
