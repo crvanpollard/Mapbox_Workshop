@@ -1,9 +1,9 @@
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodb.png)](https://cartodb.com) 
-## Intro to CartoDB workshop - PTW 2016 Map It Out (May 4, 2016)
+[![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/mapbox_logo.png)](https://mapbox.com) 
+## Intro to Mapbox workshop - Rowan University Cartography (2/19/2020)
 
-Christopher Pollard, Manager, Geospatial Application Development @DVRPC
+Christopher Pollard
 
-cpollard@dvrpc.org, [@CRVanPollard ](https://twitter.com/CRVanPollard)
+pollardc@rowan.edu, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 
 ### Today's goal - make this map
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/todaysmap.png)](https://cpollard.cartodb.com/viz/399ea10e-0f0e-11e6-a48d-0ecd1babdde5/public_map)
