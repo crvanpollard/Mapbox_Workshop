@@ -23,15 +23,15 @@ Design interactive maps that run on any device with Mapbox Studio
 [![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/mapboxstudio.png)](https://cartodb.com/editor/)
 
 #### What are people doing with it
-[![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/strava.png)]
-[![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/election.png)]
-[![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/impossible.png)]
-[![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/alltrail.png)]
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/strava.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/election.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/impossible.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/alltrail.png)
 
 ## Getting Started
 
 ### Set up an account
-If you don't have an account, go sign up: [https://cartodb.com/signup](https://cartodb.com/signup)  
+If you don't have an account, go sign up: [https://account.mapbox.com/](https://account.mapbox.com/)  
 
 ### CartoDB Dashboard
 This is where you can view and manage your maps and datasets
