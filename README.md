@@ -27,17 +27,32 @@ Design interactive maps that run on any device with Mapbox Studio
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/election.png)
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/impossible.png)
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/alltrail.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/blueprint.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/airports.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/spiderman.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/got.png)
 
 ## Getting Started
 
 ### Set up an account
 If you don't have an account, go sign up: [https://account.mapbox.com/](https://account.mapbox.com/)  
 
-### CartoDB Dashboard
-This is where you can view and manage your maps and datasets
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/dashboard.png)](https://cpollard.cartodb.com/me)
+### Mapbox Dashboard
+This is where you can view and manage your account datasets
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/dashboard.png)
 
-## Importing data into CartoDB
+### Mapbox Studio
+Mapbox Studio will allow you to store these 3 different collections (Styles, Tileets, and Datasets)
+
+Styles are your customized basemaps with all your custom settings for font, layer zoom levels, and color and symbology for your tilesets.
+ 
+The Tilesets are a collection of raster or in most cases the vector data. The tilesets are broken up into a uniform grid of square tiles for all 22 preset zoom levels.
+
+Datasets are an editable collection of GeoJSON features. 
+
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/std.png)
+
+## Importing data into Mapbox Studio
 ### Supported geospatial data formats
 http://docs.cartodb.com/cartodb-platform/import-api/importing-geospatial-data/#supported-geospatial-data-formats
 - Shapefile
