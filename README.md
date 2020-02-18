@@ -61,7 +61,7 @@ https://docs.mapbox.com/help/glossary/dataset/
 
 ### Datasets
 Today, we are going to use several local datasets that focus on Bicycle Planning in Philadelphia.
-Please go to the following URLs listed below, download and save them as geojsons.
+Please go to the following URLs listed below, download and save them as <b><u>geojsons</u></b>.
 
 - Philadelphia Bike Network ([Open Data Philly](https://www.opendataphilly.org/dataset/bike-network))
 `https://www.opendataphilly.org/dataset/bike-network`
@@ -114,17 +114,9 @@ Once you are ready to make a map you click the `Visualize` button and you will n
 Once you are ready to share your visualization you click the `Publish` button. There are a few options to choose from such as: a link that you can send via email or social media, embed your map into a blog or website, or add it to an existing or custom web mapping applications using CartoDB.js.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/publish.png)
 
-## CartoDB Deep Insights (coming summer 2016)
-Predictive analytics and on-the-fly visualiztion that will drastically improve CartoDB workflows and analysis.
-
-Key take aways: 
-- An actionable dashboard with <b><u>widgets</u></b> (charts and forms)
-- <b><u>High Performance Analytics (HPA)</u></b> that not only maps your data but now performs analysis on <b>LARGE</b> amounts of data...really FAST and quick
-- Data Augmentation (DA) builds a relationship between 2 datasets and everything that surrounds that data.
-Data Augmentation is a series of algorithms that geocode the datasets, performs a spatial join, and adds valuable demographic data (population, income, employment, etc..) to your targeted dataset.
-
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/di1.png)](https://cartodb.com/deep-insights/)
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/di2.png)](https://cartodb.com/deep-insights/)
+## Cartogram
+Use Cartogram to create a map from your favorite photo's colors and then fine tune the rest of the design with Style Components - https://apps.mapbox.com/cartogram/
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/cartogram.gif)
 
 ## CartoDB Resources
 #### CartoCSS Reference Sheet - http://ebrelsford.github.io/talks/2014/Methods3/week7/materials/cartocss-reference.pdf
