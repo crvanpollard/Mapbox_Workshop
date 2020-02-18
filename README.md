@@ -6,7 +6,7 @@ Christopher Pollard
 pollardc@rowan.edu, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 
 ### Today's goal - make this map
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/todaysmap.png)](https://cpollard.cartodb.com/viz/399ea10e-0f0e-11e6-a48d-0ecd1babdde5/public_map)
+[![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/todaysmap.png)](https://api.mapbox.com/styles/v1/crvanpollard/ck6s980mv09oh1iqppo5rusgo.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY3J2YW5wb2xsYXJkIiwiYSI6Ii00ZklVS28ifQ.Ht4KwAM3ZUjo1dT2Erskgg)
 
 ### How are we going to get there...
 - Overview of CartoDB
