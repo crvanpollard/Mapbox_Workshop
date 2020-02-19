@@ -59,9 +59,13 @@ The <b>Tilesets</b> are a collection of raster or in most cases the vector data.
 ## Importing data into Mapbox Studio
 ### Supported geospatial data formats
 https://docs.mapbox.com/help/glossary/dataset/
-- GeoJson
-- JSON
-- CSV
+- GeoJson (an open standard file format for representing map data)
+https://docs.mapbox.com/help/glossary/geojson
+
+- JSON (JavaScript Object Notation is an open-standard file format or data interchange format that uses human-readable text to transmit data objects consisting of attribute–value pairs and array data types or any other serializable value)
+
+- CSV (is common for table data file format used in Excel or other spreadsheets programs)
+https://docs.mapbox.com/help/glossary/csv/
 
 ### Datasets
 Today, we are going to work with a few local datasets that focus on Bicycle Planning in Philadelphia.
