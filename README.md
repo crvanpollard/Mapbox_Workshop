@@ -61,6 +61,7 @@ https://docs.mapbox.com/help/glossary/dataset/
 
 ### Datasets
 Today, we are going to work with a few local datasets that focus on Bicycle Planning in Philadelphia.
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/opendataphilly.png)
 Please go to the following URLs listed below, download and save the <b><u>geojsons</u></b> files.
 
 - Philadelphia Bike Network ([Open Data Philly](https://www.opendataphilly.org/dataset/bike-network))
@@ -130,11 +131,11 @@ Detailed breakdown of all the layers within the style
 
 ### Creating a map of your data
 First open your style in the style editor. Next, you can either create a new layer with this tileset as the source, or you can change an existing layer's data source to this tileset.
-Once you are ready to make a map you click the `Visualize` button and you will now have several map layout tools available. Here you can add a title, text, annotaion, and images, as well as, select from other map options.
-![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/styleeditor.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/customdata.png)
 
-Once you are ready to share your visualization you click the `Publish` button. There are a few options to choose from such as: a link that you can send via email or social media, embed your map into a blog or website, or add it to an existing or custom web mapping applications using CartoDB.js.
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/publish.png)
+### Publish
+Once you are ready to share your visualization you click the `Publish` button.
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/publish.png)
 
 ## Mapbox Resources
 
