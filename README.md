@@ -89,19 +89,19 @@ This is a tool that allows you to create, import, and edit your geographic data 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/editor.png)
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/data_editor.png)
 
-### Import
+### Import - add new GeoJson features or CSV files that contain latitude and longitude coordinates 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/import.png)
 
-### Draw
+### Draw - add new geometry to existing datasets or draw your own from scratch 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/draw.png)
 
-### Export
+### Export - you will need to export your dataset before you can use in a styled map
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/export.png)
 
-### Toolbar
+### Toolbar - a set a tools that help with map navigation and basemap options
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/toolbar.png)
 
-### Edit
+### Edit - modify geometry and attribute values
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/highpoverty.png)
 
 ## TileSets
