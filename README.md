@@ -38,17 +38,17 @@ Design interactive maps that run on any device with Mapbox Studio
 If you don't have an account, go sign up: [https://account.mapbox.com/](https://account.mapbox.com/)  
 
 ### Mapbox Dashboard
-This is where you can view and manage your account datasets
+This is where you can view and manage your account and settings
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/dashboard.png)
 
 ### Mapbox Studio
-Mapbox Studio will allow you to store these 3 different collections (Styles, Tileets, and Datasets)
+Mapbox Studio has 3 main componets that will allow you to store different collections (Styles, Tilesets, and Datasets)
 
-Styles are your customized basemaps with all your custom settings for font, layer zoom levels, and color and symbology for your tilesets.
+<b>Styles</b> are your customized basemaps with all your custom settings for font, layer zoom levels, color and symbology for your tilesets.
  
-The Tilesets are a collection of raster or in most cases the vector data. The tilesets are broken up into a uniform grid of square tiles for all 22 preset zoom levels.
+The <b>Tilesets</b> are a collection of raster or in most cases the vector data. The tilesets are broken up into a uniform grid of square tiles for all 22 preset zoom levels.
 
-Datasets are an editable collection of GeoJSON features. 
+<b>Datasets</b> are an editable collection of GeoJSON features. 
 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/std.png)
 
@@ -60,8 +60,8 @@ https://docs.mapbox.com/help/glossary/dataset/
 - CSV
 
 ### Datasets
-Today, we are going to use several local datasets that focus on Bicycle Planning in Philadelphia.
-Please go to the following URLs listed below, download and save them as <b><u>geojsons</u></b>.
+Today, we are going to work with a few local datasets that focus on Bicycle Planning in Philadelphia.
+Please go to the following URLs listed below, download and save the <b><u>geojsons</u></b> files.
 
 - Philadelphia Bike Network ([Open Data Philly](https://www.opendataphilly.org/dataset/bike-network))
 `https://www.opendataphilly.org/dataset/bike-network`
@@ -75,18 +75,22 @@ Please go to the following URLs listed below, download and save them as <b><u>ge
 `https://www.opendataphilly.org/dataset/neighborhood-food-retail`
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/nfr_geojson.png)
 
-### Data View
-This is where you can view, sort, modfiy, add, and merge datasets together. Very similar to excel and other spreadsheet interfaces. 
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/dataview.png)
+### Dataset Editor 
+This is where you can create, import, and edit geographic data. 
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/editor.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/data_editor.png)
 
-### Georeferencing
-If you don't have a Geometry field or Lat/Long in your dataset you can use CartoDB's Georeferencing tool to be able to map your data by street address, city name, postal code, administration region, or IP address.
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/datageo.png)
+### Import
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/import.png)
 
-### Data Merge
-You can also merge datasets that have a common field or attribute that are the same data type <i>(number to number, string to string)</i>.
-We will do this with our Census Tract shapefile and ACS 2009-2013 Demographic Profile data.
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/datamerge.png)
+### Draw
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/draw.png)
+
+### Export
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/export.png)
+
+### Toolbar
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/toolbar.png)
 
 ## Visualizing data in CartoDB
 ### Style Wizard
