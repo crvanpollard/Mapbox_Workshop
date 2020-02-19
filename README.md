@@ -139,8 +139,23 @@ Detailed breakdown of all the layers within the style
 ### Creating a map with your data
 The easiest option is to select from one of the Mapbox-designed map styles or use your Cartogram to get started. Next, you will add a new layer and select your tileset that you created, or you can add a few Mapbox tilesets such as terrian or satellite.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/addlayer.png)
+
 Once you have added your tileset you now have several options to style the symbology of that layer.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/customdata.png)
+
+### Style with data condition
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style2.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style3.png)
+
+### Choose a data field
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style4.png)
+
+### Set Fallback Value to have a transparency value of zero (0)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style5.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style6.png)
+
+### Arrange datsets to be below text and other layers
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style7.png)
 
 ### Publish
 Once you are ready to share your visualization you click the `Publish` button.
