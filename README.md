@@ -125,7 +125,7 @@ There are several Mapbox-designed map styles that can either be used directly in
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/template.png)
 
 ### Cartogram - https://apps.mapbox.com/cartogram/
-Cartogram allows you to create a map from your favorite photo's colors and then fine tune the rest of the design with Style Components 
+Cartogram allows you to create a map from your favorite photo's colors and then fine tune the rest of the design with Style Components - - -  “All the pretty colors--crafting themes”
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/cartogram.gif)
 
 ### Style Componets
