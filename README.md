@@ -122,21 +122,17 @@ Use Cartogram to create a map from your favorite photo's colors and then fine tu
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/cartogram.gif)
 
 ## Mapbox Resources
-#### CartoCSS Reference Sheet - http://ebrelsford.github.io/talks/2014/Methods3/week7/materials/cartocss-reference.pdf
-This handy CartoCSS Reference Sheet is a quick guide for beginners to CartoCSS
 
-#### CartoDB Academy - http://academy.cartodb.com
-The CartoDB Academy is great for recapping the basics, starting to use their APIs, and growing your design capabilities.
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapacademy.png)](http://academy.cartodb.com)
-
-#### Odyssey - http://cartodb.github.io/odyssey.js/
-A simple way for journalists, designers, bloggers, and others to publish stories that combine narratives with map interactions. Allows creative minded people to weave interactive stories with images, maps, and compeling narritives.
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/odyssey.png)](http://cartodb.github.io/odyssey.js/)
-
-#### Preparing CSV files for use in CartoDB - https://vimeo.com/channels/cartodb/100105203
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/csv.png)](https://vimeo.com/channels/cartodb/100105203)
+#### Mapbox Studio Manual - https://docs.mapbox.com/studio-manual/overview/
+This handy Mapbox Studio manual contains a comprehensive explanation of each section of Mapbox Studio, including general descriptions of individual components and detailed information on specific tools. It can be used either as a reference when using specific tools in Mapbox Studio, or as a way to understand the general pieces of how a Mapbox map is constructed.
 
 #### How to create a custom Mapbox map style using a template
 [![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/video1.png)](https://www.mapbox.com/videos/how-to/create-a-custom-map-style-using-a-template/)
+
+#### Mapbox Storytelling - https://www.mapbox.com/solutions/interactive-storytelling
+A simple way for journalists, designers, bloggers, and others to publish stories that combine narratives with map interactions. Allows creative minded people to weave interactive stories with images, maps, and compeling narritives.
+[![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/mapboxstory.gif)](https://www.mapbox.com/solutions/interactive-storytelling)
+
+
 
 
