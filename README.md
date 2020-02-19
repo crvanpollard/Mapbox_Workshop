@@ -144,29 +144,34 @@ Once you have added your tileset you now have several options to style the symbo
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/customdata.png)
 
 ### Style with data conditions
+Next we are going to add the <b>Neighborhood Food Retail</b> tileset 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style2.png)
 
-Once you have added your layer you can filter a layer to only show features based on an attribute value by selecting the 'Style with data condtions' button 
+Once you have added your layer you can filter that layer to only show features based on an attribute value by selecting the 'Style with data condtions' button 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style3.png)
 
 ### Choose a data field
-Select the data field you want to filter by and set the values or conditions. In our example we are choosing High_Poverty is Yes
+Select the data field you want to filter by and set the values or conditions. In our example we are choosing <b>High_Poverty is Yes</b>
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style4.png)
 
 ### Fallback Value
-You'll also need to set the <b>Fallback Value</b> to have a transparency value of zero (0) so that the other features are hidden
+You'll also need to set the <b>Fallback Value</b> to have a transparency value of zero (0) so that the other features are hidden. This is the input box with an a that is right below the HSL/RGB selectors.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style5.png)
 
 Then style your neighborhood food retail dataset 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style6.png)
 
 ### Layer Ordering
-Arrange datsets within the Table of Content so that the appear below text and other layers
+Arrange datsets within the Layers Table of Content so that the appear below text and other layers
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style7.png)
 
 ### Publish
-Once you are ready to share your visualization you click the `Publish` button.
+Once you are ready to share your visualization you'll click the `Publish` button. You can share this interactive map with anyone.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/publish.png)
+
+### Print
+The other option is to <b>Print</b> your map. You have a few options for exporting your map as a jpg or png. 
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/print.png)
 
 ## Mapbox Resources
 
