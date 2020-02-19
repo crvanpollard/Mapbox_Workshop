@@ -116,10 +116,17 @@ The Mapbox Studio style editor is your visual interface for creating custom map 
 There are several Mapbox-designed map styles that can either be used directly in your web or mobile application or be used as a starting point for creating a new custom style in Mapbox Studio. 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/template.png)
 
+### Cartogram - https://apps.mapbox.com/cartogram/
+Cartogram allows you to create a map from your favorite photo's colors and then fine tune the rest of the design with Style Components 
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/cartogram.gif)
+
 ### Style Componets
 Style components provide sensible defaults and quick opportunities for customization by optimizing the most common property changes for styles and packaging them into drop-down options, sliders, and toggles.
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/componets.png)
 
 ### Style Layers
+Detailed breakdown of all the layers within the style
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/layers.png)
 
 ### Creating a map of your data
 First open your style in the style editor. Next, you can either create a new layer with this tileset as the source, or you can change an existing layer's data source to this tileset.
@@ -131,17 +138,13 @@ Once you are ready to share your visualization you click the `Publish` button. T
 
 ## Mapbox Resources
 
-#### Mapbox Studio Manual - https://docs.mapbox.com/studio-manual/overview/
+### Mapbox Studio Manual - https://docs.mapbox.com/studio-manual/overview/
 This handy Mapbox Studio manual contains a comprehensive explanation of each section of Mapbox Studio, including general descriptions of individual components and detailed information on specific tools. It can be used either as a reference when using specific tools in Mapbox Studio, or as a way to understand the general pieces of how a Mapbox map is constructed.
 
-## Cartogram
-Use Cartogram to create a map from your favorite photo's colors and then fine tune the rest of the design with Style Components - https://apps.mapbox.com/cartogram/
-![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/cartogram.gif)
-
-#### How to create a custom Mapbox map style using a template - https://www.mapbox.com/videos/how-to/create-a-custom-map-style-using-a-template/
+### How to create a custom Mapbox map style using a template - https://www.mapbox.com/videos/how-to/create-a-custom-map-style-using-a-template/
 [![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/video1.png)](https://www.mapbox.com/videos/how-to/create-a-custom-map-style-using-a-template/)
 
-#### Mapbox Storytelling - https://www.mapbox.com/solutions/interactive-storytelling
+### Mapbox Storytelling - https://www.mapbox.com/solutions/interactive-storytelling
 A simple way for journalists, designers, bloggers, and others to publish stories that combine narratives with map interactions. Allows creative minded people to weave interactive stories with images, maps, and compeling narritives.
 [![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/mapboxstory.gif)](https://www.mapbox.com/solutions/interactive-storytelling)
 
