@@ -145,16 +145,23 @@ Once you have added your tileset you now have several options to style the symbo
 
 ### Style with data condition
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style2.png)
+
+Once you have added your layer you can filter the layer to style based on attribute values 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style3.png)
 
 ### Choose a data field
+Select the data field you want to filter by and set the values or conditions
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style4.png)
 
-### Set Fallback Value to have a transparency value of zero (0)
+### Fallback Value
+Set Fallback Value to have a transparency value of zero (0) so that the other features are hidden
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style5.png)
+
+Then style your dataset 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style6.png)
 
-### Arrange datsets to be below text and other layers
+### Layer Ordering
+Arrange datsets within the Table of Content so that the appear below text and other layers
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style7.png)
 
 ### Publish
