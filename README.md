@@ -132,12 +132,14 @@ Cartogram allows you to create a map from your favorite photo's colors and then 
 Style components provide sensible defaults and quick opportunities for customization by optimizing the most common property changes for styles and packaging them into drop-down options, sliders, and toggles.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/componets.png)
 
-### Style Layers
+### Layers
 Detailed breakdown of all the layers within the style
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/layers.png)
 
-### Creating a map of your data
-First open your style in the style editor. Next, you can either create a new layer with this tileset as the source, or you can change an existing layer's data source to this tileset.
+### Creating a map with your data
+The easiest option is to select from one of the Mapbox-designed map styles or use your Cartogram to get started. Next, you will add a new layer and select your tileset that you created, or you can add a few Mapbox tilesets such as terrian or satellite.
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/addlayer.png)
+Once you have added your tileset you now have several options to style the symbology of that layer.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/customdata.png)
 
 ### Publish
