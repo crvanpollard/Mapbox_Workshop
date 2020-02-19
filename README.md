@@ -81,11 +81,11 @@ Please go to the following URLs listed below, download and save the <b><u>geojso
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/nfr_geojson.png)
 
 ### Uploading a New Dataset
-Once you have your GeoJson or CVS (that has Latitude and Longitude values) it is a simple drag n' drop process to upload your data
+Once you have downloaded the GeoJson or in some cases a CVS (that has Latitude and Longitude values) it is a simple drag n' drop or select file process to upload your geospatial data to mapbox
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/newdataset.png)
 
 ### Dataset Editor 
-This is where you can create, import, and edit geographic data. 
+This is a tool that allows you to create, import, and edit your geographic data as well as attribute information. 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/editor.png)
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/data_editor.png)
 
@@ -100,6 +100,9 @@ This is where you can create, import, and edit geographic data.
 
 ### Toolbar
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/toolbar.png)
+
+### Edit
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/highpoverty.png)
 
 ## TileSets
 A tileset is a collection of raster or vector data broken up into a uniform grid of square tiles at 22 preset zoom levels. Mapbox will render vector tiles from your dataset so you can create styles from it. 
