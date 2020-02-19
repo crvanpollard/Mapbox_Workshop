@@ -43,15 +43,18 @@ This is where you view and manage your account and settings
 
 ## Mapbox Studio
 Mapbox Studio has 3 main componets that will allow you to store different collections (Styles, Tilesets, and Datasets)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/std.png)
 
 <b>Styles</b> are your customized basemaps with all your custom settings for font, layer zoom levels, color and symbology for your tilesets.
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/styles1.png)
  
 The <b>Tilesets</b> are a collection of raster or in most cases the vector data. The tilesets are broken up into a uniform grid of square tiles for all 22 preset zoom levels.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/zoom.png)
 
 <b>Datasets</b> are an editable collection of GeoJSON features. 
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/dataset1.png)
 
-![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/std.png)
+
 
 ## Importing data into Mapbox Studio
 ### Supported geospatial data formats
