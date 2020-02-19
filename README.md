@@ -97,29 +97,23 @@ This is where you can create, import, and edit geographic data.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/toolbar.png)
 
 ## TileSets
-### Exporting to Tilesets
-Once you have your dataset uploaded and ready to use you will need to "Export to Tileset". You can do this in the main dataset page or in the Data Editor
-![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/exporttileset.png)
+A tileset is a collection of raster or vector data broken up into a uniform grid of square tiles at 22 preset zoom levels. Mapbox will render vector tiles from your dataset so you can create styles from it. 
+
+### Exporting your Dataset to Tilesets
+Once you have your dataset uploaded and ready to use you will need to "Export to tileset". You can do this in the main dataset page or in the Data Editor
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/exporttile.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/exporttileset.png)
 
-### Infowindows
-You can also turn on infowindows which allow users to click or hover over a feature and view specific attribute information. You, as the map maker, can select which attributes you allow your users to view.
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_info.png)
+### How to use tilesets
+Once your vector tiles are baked, you can add them to a new or existing style. 
 
-### Filters
-There is also a function that will allow you to set custom filters or parameters on your layer based off attribute information. For instance, in the map below, the filter is set to only show bicycle counts that have an `ADB` over 100.
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_filter.png)
-
-### CartoCSS
-If you wish to have more advanced map styling you can do that with CartoCSS editor.
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_cartocss.png)
+## Styles
+### Style Editor
+First open your style in the style editor. Next, you can either create a new layer with this tileset as the source, or you can change an existing layer's data source to this tileset.
 
 ### Creating a map of your data
 Once you are ready to make a map you click the `Visualize` button and you will now have several map layout tools available. Here you can add a title, text, annotaion, and images, as well as, select from other map options.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_map.png)
-
-## Publishing your visualization
-### Time to share you map with the world
 Once you are ready to share your visualization you click the `Publish` button. There are a few options to choose from such as: a link that you can send via email or social media, embed your map into a blog or website, or add it to an existing or custom web mapping applications using CartoDB.js.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/publish.png)
 
@@ -127,7 +121,7 @@ Once you are ready to share your visualization you click the `Publish` button. T
 Use Cartogram to create a map from your favorite photo's colors and then fine tune the rest of the design with Style Components - https://apps.mapbox.com/cartogram/
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/cartogram.gif)
 
-## CartoDB Resources
+## Mapbox Resources
 #### CartoCSS Reference Sheet - http://ebrelsford.github.io/talks/2014/Methods3/week7/materials/cartocss-reference.pdf
 This handy CartoCSS Reference Sheet is a quick guide for beginners to CartoCSS
 
@@ -142,7 +136,7 @@ A simple way for journalists, designers, bloggers, and others to publish stories
 #### Preparing CSV files for use in CartoDB - https://vimeo.com/channels/cartodb/100105203
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/csv.png)](https://vimeo.com/channels/cartodb/100105203)
 
-#### Using Column Join to Merge Tables - https://vimeo.com/channels/cartodb/100105201
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/merge.png)](https://vimeo.com/channels/cartodb/100105201)
+#### How to create a custom Mapbox map style using a template
+[![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/video1.png)](https://www.mapbox.com/videos/how-to/create-a-custom-map-style-using-a-template/)
 
 
