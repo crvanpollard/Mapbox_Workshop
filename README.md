@@ -143,21 +143,21 @@ The easiest option is to select from one of the Mapbox-designed map styles or us
 Once you have added your tileset you now have several options to style the symbology of that layer.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/customdata.png)
 
-### Style with data condition
+### Style with data conditions
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style2.png)
 
-Once you have added your layer you can filter the layer to style based on attribute values 
+Once you have added your layer you can filter a layer to only show features based on an attribute value by selecting the 'Style with data condtions' button 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style3.png)
 
 ### Choose a data field
-Select the data field you want to filter by and set the values or conditions
+Select the data field you want to filter by and set the values or conditions. In our example we are choosing High_Poverty is Yes
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style4.png)
 
 ### Fallback Value
-Set Fallback Value to have a transparency value of zero (0) so that the other features are hidden
+You'll also need to set the <b>Fallback Value</b> to have a transparency value of zero (0) so that the other features are hidden
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style5.png)
 
-Then style your dataset 
+Then style your neighborhood food retail dataset 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/style6.png)
 
 ### Layer Ordering
