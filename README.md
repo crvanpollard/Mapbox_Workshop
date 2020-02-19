@@ -105,28 +105,40 @@ Once you have your dataset uploaded and ready to use you will need to "Export to
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/exporttileset.png)
 
 ### How to use tilesets
-Once your vector tiles are baked, you can add them to a new or existing style. 
+Once your vector tiles are baked, you'll then be able to add them to a new or existing style. 
 
 ## Styles
 ### Style Editor
-First open your style in the style editor. Next, you can either create a new layer with this tileset as the source, or you can change an existing layer's data source to this tileset.
+The Mapbox Studio style editor is your visual interface for creating custom map styles. A style is a set of rules for how your map will be rendered on a page. It includes references to your data, map images (icons, markers, patterns), fonts, and, most importantly, it defines how all your data should be styled on your map.
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/styleeditor.png)
+
+### Template Styles
+There are several Mapbox-designed map styles that can either be used directly in your web or mobile application or be used as a starting point for creating a new custom style in Mapbox Studio. 
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/template.png)
+
+### Style Componets
+Style components provide sensible defaults and quick opportunities for customization by optimizing the most common property changes for styles and packaging them into drop-down options, sliders, and toggles.
+
+### Style Layers
 
 ### Creating a map of your data
+First open your style in the style editor. Next, you can either create a new layer with this tileset as the source, or you can change an existing layer's data source to this tileset.
 Once you are ready to make a map you click the `Visualize` button and you will now have several map layout tools available. Here you can add a title, text, annotaion, and images, as well as, select from other map options.
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_map.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/styleeditor.png)
+
 Once you are ready to share your visualization you click the `Publish` button. There are a few options to choose from such as: a link that you can send via email or social media, embed your map into a blog or website, or add it to an existing or custom web mapping applications using CartoDB.js.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/publish.png)
-
-## Cartogram
-Use Cartogram to create a map from your favorite photo's colors and then fine tune the rest of the design with Style Components - https://apps.mapbox.com/cartogram/
-![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/cartogram.gif)
 
 ## Mapbox Resources
 
 #### Mapbox Studio Manual - https://docs.mapbox.com/studio-manual/overview/
 This handy Mapbox Studio manual contains a comprehensive explanation of each section of Mapbox Studio, including general descriptions of individual components and detailed information on specific tools. It can be used either as a reference when using specific tools in Mapbox Studio, or as a way to understand the general pieces of how a Mapbox map is constructed.
 
-#### How to create a custom Mapbox map style using a template
+## Cartogram
+Use Cartogram to create a map from your favorite photo's colors and then fine tune the rest of the design with Style Components - https://apps.mapbox.com/cartogram/
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/cartogram.gif)
+
+#### How to create a custom Mapbox map style using a template - https://www.mapbox.com/videos/how-to/create-a-custom-map-style-using-a-template/
 [![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/video1.png)](https://www.mapbox.com/videos/how-to/create-a-custom-map-style-using-a-template/)
 
 #### Mapbox Storytelling - https://www.mapbox.com/solutions/interactive-storytelling
