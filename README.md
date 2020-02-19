@@ -3,7 +3,7 @@
 
 Christopher Pollard, pollardc@rowan.edu, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 
-### Today's goal - make this map
+### Today's goal - design a custom basemap with local datasets
 [![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/todaysmap.png)](https://api.mapbox.com/styles/v1/crvanpollard/ck6s980mv09oh1iqppo5rusgo.html?fresh=true&title=view&access_token=pk.eyJ1IjoiY3J2YW5wb2xsYXJkIiwiYSI6Ii00ZklVS28ifQ.Ht4KwAM3ZUjo1dT2Erskgg)
 
 ### How are we going to get there...
@@ -15,10 +15,10 @@ Christopher Pollard, pollardc@rowan.edu, [@CRVanPollard ](https://twitter.com/CR
 
 ## Overview of Mapbox Studio
 #### Mapbox Studio - https://www.mapbox.com/mapbox-studio/
-Design interactive maps that run on any device with Mapbox Studio
+Design and style custom basemaps that are fully interactive with Mapbox Studio
 - Full basemap design control
 - Data visualization
-- Publish across platforms
+- Publish across multiple platforms
 
 [![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/mapboxstudio.png)](https://cartodb.com/editor/)
 
@@ -38,15 +38,16 @@ Design interactive maps that run on any device with Mapbox Studio
 If you don't have an account, go sign up: [https://account.mapbox.com/](https://account.mapbox.com/)  
 
 ### Mapbox Dashboard
-This is where you can view and manage your account and settings
+This is where you view and manage your account and settings
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/dashboard.png)
 
-### Mapbox Studio
+## Mapbox Studio
 Mapbox Studio has 3 main componets that will allow you to store different collections (Styles, Tilesets, and Datasets)
 
 <b>Styles</b> are your customized basemaps with all your custom settings for font, layer zoom levels, color and symbology for your tilesets.
  
 The <b>Tilesets</b> are a collection of raster or in most cases the vector data. The tilesets are broken up into a uniform grid of square tiles for all 22 preset zoom levels.
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/zoom.png)
 
 <b>Datasets</b> are an editable collection of GeoJSON features. 
 
