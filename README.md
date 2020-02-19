@@ -75,6 +75,10 @@ Please go to the following URLs listed below, download and save the <b><u>geojso
 `https://www.opendataphilly.org/dataset/neighborhood-food-retail`
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/nfr_geojson.png)
 
+### Uploading a New Dataset
+Once you have your GeoJson or CVS (that has Latitude and Longitude values) it is a simple drag n' drop process to upload your data
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/newdataset.png)
+
 ### Dataset Editor 
 This is where you can create, import, and edit geographic data. 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/editor.png)
@@ -92,10 +96,11 @@ This is where you can create, import, and edit geographic data.
 ### Toolbar
 ![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/toolbar.png)
 
-## Visualizing data in CartoDB
-### Style Wizard
-CartoDB comes with some great map design tools that allow the user to pick from multple layer styles (simple, cluster, choropleth, category, bubble, torque, heatmap, intensity, and density).
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_style.png)
+## TileSets
+### Exporting to Tilesets
+Once you have your dataset uploaded and ready to use you will need to "Export to Tileset". You can do this in the main dataset page or in the Data Editor
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/exporttileset.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/Mapbox_Workshop/master/img/exporttile.png)
 
 ### Infowindows
 You can also turn on infowindows which allow users to click or hover over a feature and view specific attribute information. You, as the map maker, can select which attributes you allow your users to view.
